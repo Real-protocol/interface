@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# DEPRECATION NOTICE
-This repositiory was the public preview of the internal Liquity codebase. Since Liquity launched, our private repo has been public, and is now the source of truth. This repo now serves as an archive. It doesn't have Liquity's latest cod\\e.
-=======
->>>>>>> 16364c0dc5c4e0d60348ec52ea96d54980b1bb7e
 
 
 # Real Protocol: Decentralized Borrowing Protocol
@@ -181,5 +176,6 @@ Your custom built Dev UI can be configured by putting a file named `config.json`
 #� �F�r�o�n�t�e�n�d�
 �
 �
-#   i n t e r f a c e  
- 
+#� �i�n�t�e�r�f�a�c�e�
+�
+�
