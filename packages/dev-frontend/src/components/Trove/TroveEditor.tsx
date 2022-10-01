@@ -82,7 +82,7 @@ export const TroveEditor: React.FC<TroveEditorProps> = ({
           amount={edited.collateral.prettify(4)}
           maxAmount={maxCollateral.toString()}
           maxedOut={collateralMaxedOut}
-          unit="ETH"
+          unit="ETHW"
           {...{ editingState }}
           editedAmount={edited.collateral.toString(4)}
           setEditedAmount={(editedCollateral: string) =>
